@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css?family=Charmonman");
+
+header a {
+ text-decoration: none;
+ font-family: "OctemberScript";
+  padding-bottom: 0;
+
+}
+
+section h1{
+color: red;
+ font-family: 'Charmonman', cursive;
+}
+
+
+
+#special{
+  color:blue;
+}
+
+.green{
+ color:green;
+}
